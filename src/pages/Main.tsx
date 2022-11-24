@@ -14,7 +14,7 @@ export default () => {
         </p>
         <p>
           Możesz je zrealizować w codesandbox
-          (https://codesandbox.io/p/sandbox/nostalgic-voice-tbfgyg?) albo w vs
+          (https://codesandbox.io/p/github/jmarianski-kogifi/recruitment-react/) albo w vs
           code na twoim kompie.
         </p>
       </div>
