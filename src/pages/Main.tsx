@@ -15,7 +15,7 @@ export default () => {
         <p>
           Możesz je zrealizować w codesandbox
           (https://codesandbox.io/p/github/jmarianski-kogifi/recruitment-react/) albo w vs
-          code na twoim kompie.
+          code na twoim kompie klonując repozytorium (https://github.com/jmarianski-kogifi/recruitment-react)
         </p>
       </div>
       <p className="read-the-docs">Powodzenia!</p>
