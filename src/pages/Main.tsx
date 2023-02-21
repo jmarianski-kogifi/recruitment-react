@@ -13,8 +13,8 @@ export default () => {
           repozytorium.
         </p>
         <p>
-          Możesz je zrealizować w codesandbox
-          (https://codesandbox.io/p/github/jmarianski-kogifi/recruitment-react/) albo w vs
+          Możesz je zrealizować w stackblitz
+          (https://stackblitz.com/github/jmarianski-kogifi/recruitment-react) albo w vs
           code na twoim kompie klonując repozytorium (https://github.com/jmarianski-kogifi/recruitment-react)
         </p>
       </div>
